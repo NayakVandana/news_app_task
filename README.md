@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 ### `Display Articles`
 
-<img src="https://github.com/NayakVandana/laravel_auth_profile_crud_task/blob/main/public/assets/images/image.png](https://github.com/NayakVandana/news_app_task/blob/main/public/display_articles_1.png"> 
+<img src="public/display_articles_1.png"> 
 
 
 ### `Pagination`
