@@ -12,18 +12,22 @@ In the project directory, you can run:
 
 <img src="public/display_articles_1.png"> 
 
-
 ### `Pagination`
 
+<img src="public/pagination2.png"> 
 
 ### `Search`
 
+<img src="public/search3.png"> 
 
 ### `Sorting`
 
+<img src="public/sorting4.png"> 
 
 ### `Customizable Columns`
 
+
+<img src="public/customizable_column5.png"> 
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
